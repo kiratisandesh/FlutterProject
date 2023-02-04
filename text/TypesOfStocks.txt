@@ -1,0 +1,94 @@
+Common Stock
+When investment professionals talk about stock, they almost always mean common stock. Publicly traded companies issue different classes of stock—more on that subject below—but common stock is the most basic type. In fact, the overwhelming majority of stock issued by companies is common stock.
+
+When you own common stock, it gives you the right to vote on board members and other corporate issues at a company’s annual meeting. Generally, one share equals one vote. An investor holding five shares of Company ABC, for example, would only have five votes—far less than a hedge fund that owned 30% of the company, which could amount to millions of shares. That said, it’s possible to have non-voting common stock.
+
+If the company performs well, the sky’s the limit for common stock when it comes to gains from price appreciation. Some common stocks also pay regular dividends, but payouts are never guaranteed. One downside of common stock is that its shareholders are last in line to be repaid if the company goes bankrupt.
+
+Preferred Stock
+All public companies have common stock, but only some issue shares of what’s called preferred stock. This type of stock offers some of the advantages of common stocks and bonds in a single security.
+
+Preferred stock pays its holders guaranteed dividends, in addition to a chance for price appreciation like you get with shares of common stock. If a company’s common stock pays dividends, the preferred stock dividend may very well be higher. Preferred stock shareholders are also more likely to receive some kind of compensation if the company becomes insolvent.
+
+Another difference is that the issuing company can choose to buy back preferred stock at its option—something investment professionals would say makes the stock “callable.” In addition, shareholders may have the option to convert their preferred stock to common stock. The biggest downside of preferred stock, however, is that preferred stockholders don’t have any voting rights.
+
+Class A Stock and Class B Stock
+Some companies choose to issue multiple classes of stock. These stock classes are indicated by letters, such as class A stock and class B stock. The most common reason for a company to issue separate classes of stock is to grant key investors more control over the company’s affairs.
+
+Here’s how it works in practice. One type of shares—class A stock, for instance—would only be issued to company founders or key executives. Another type of stock—class B stock—would be available to the general public. Class A stock might have 10 times the voting power as class B stock, giving insiders tight control over the company’s business.
+
+Alphabet Inc., the parent company of Google, is a good example of a public company with multiple classes of stock. Alphabet’s class A shares—ticker GOOGL—are common stock that carry one vote per share. The company’s class B shares are held closely by Google’s original founders and early investors and carry 10 votes per share. Alphabet’s class C shares—ticker GOOG—are another class of common stock that carry no voting rights.
+
+Large-Cap Stocks
+Beyond the different types of stock issued by public companies, stocks may be categorized by market capitalization, or market cap. This is a measure of value that you get by multiplying the total number of a company’s outstanding shares by its current stock price.
+
+Public companies in the U.S. with a market capitalization of $10 billion or more are categorized as large-cap stocks. Their tremendous size and considerable influence over markets offer investors greater stability and less risk since such large-cap companies often can weather market disruptions and volatility better than smaller companies.
+
+One downside of large-cap stocks is that companies of this size grow much more slowly than newer, smaller companies. That means investors shouldn’t expect outsized returns from investing in large-cap stocks.
+
+Mid-Cap Stocks
+Companies with a market capitalization between $2 billion and $10 billion are called mid-cap stocks. They can be tomorrow’s large-cap companies or the fallen large-caps of yesterday. Mid-cap companies combine the stability of established businesses with more of the growth potential of smaller companies.
+
+Mid-cap stocks can offer the potential for growth as they expand their share of the markets where they do business. Plus, they’re often the target of mergers or acquisitions by large-cap companies.
+
+Small-Cap Stocks
+Small-cap stocks are U.S. companies with a market capitalization of $300 million to $2 billion. There are many times more small-cap companies than the number of large-cap and mid-cap stocks combined.
+
+Small-cap stocks offer investors huge opportunities for growth, and the small-cap market is made up of a lot of future mid-cap and large-cap companies. At the same time, these stocks are among the riskiest investment options since small-cap stocks experience heightened market volatility.
+
+Additionally, small-caps can also include companies facing bankruptcy and companies that are ripe for acquisition. Investing in small-caps pairs the possibility of impressive gains with the potential for major losses.
+
+Growth Stocks
+Growth stocks are companies that are expanding their revenues, profits, share prices or cash flows at a greater rate than the market at large. The goal when investing in growth stocks is seeing strong price appreciation over time. However, growth stocks offer more potential for volatility since these companies are more likely to be taking risks to achieve that growth.
+
+Growth companies tend to reinvest their earnings into the business and may not pay dividends. While many growth stocks are smaller companies that are new to the marketplace, that’s not always true in every case. But most of the time, growth companies are strongly focused on innovating and disrupting their industries.
+
+Value Stocks
+Value stocks are the shares of companies that are on sale. To put it another way, value stocks are strong companies that are being underpriced by the stock market. Value investors try to uncover companies in the value stock category, buy their shares and wait for the rest of the market to wake up to their true value.
+
+To find these shares, value investors look for companies with a low price-to-book ratio or low P/E ratio as well as certain other factors. Stocks that look favorable by these common investment analysis ratios may have had their share prices depressed by broader market developments unconnected to the specific developments in their businesses or industries.
+
+International Stocks
+International stocks are shares of companies from outside of your home country. Investing in international stocks provides extra diversification than is possible with a U.S.-based stock portfolio because they are impacted by different market forces.
+
+Buying international stocks may give investors access to faster-growing economies as well as different risk and return patterns. Additionally, international stocks can provide a hedge against the U.S. dollar losing buying power.
+
+But when the dollar is strong, international stock returns can be weakened. Investors also need to watch out for the risk geopolitical upheaval can pose to international stocks.
+
+Dividend Stocks
+Dividend stocks can provide a steady stream of income in addition to price appreciation. That’s why dividend investors buy the shares of public companies that return some of their profits to shareholders as dividends.
+
+Dividend stocks may offer tax benefits. Most dividends are considered “qualified” rather than “ordinary,” which means they are taxed at the same rate as long-term capital gains rather than as ordinary income, which can be a major tax advantage.
+
+Some dividend investors choose to reinvest their gains as a passive method of boosting returns. Dividend reinvestment programs (DRIPs) are one way of automatically reinvesting dividends.
+
+IPO Stocks
+Private companies that want to get access to public stock markets often make an initial public offering (IPO). This involves listing their shares of stock on an exchange like the New York Stock Exchange (NYSE) or the Nasdaq for sale to the public.
+
+Getting in on the ground floor of a future boldface stock is exciting, and many investors like to chase IPO stocks. But new, unproven public companies aren’t always a sure bet: Between 1975 and 2011, over 60% of IPO stocks saw negative returns after five years. If you’re interested in IPO stock investing, make sure you do not invest more than a small portion of your portfolio. Consider sticking to companies or industries you are familiar with.
+
+Cyclical Stocks and Defensive Stocks
+Cyclical stocks are companies whose sales—and their share prices—tend to surge when the economy is growing out of an economic slowdown and into a boom. Conversely, shares tend to fall and sales contract when the economy is slowing down. To put it another way, they follow the boom/bust rhythm of the business cycle.
+
+Some cyclical stocks depend on consumer discretionary spending. These include retail companies, dining, technology and travel.
+
+Defensive stocks, meanwhile, are shares of companies whose businesses are less impacted by the ups and downs of the business cycle. Utilities stocks, healthcare stocks and consumer staples stocks are all considered defensive investments. That’s because their revenue—and potentially their stock prices—remain steady in boom and bust economies.
+
+Some invest in cyclical stocks when they believe the economy is poised for growth and move to defensive stocks when they anticipate an economic contraction. This strategy, known as sector rotation, can be risky because one cannot predict the economy’s next move with 100% accuracy.
+
+Blue Chip Stocks
+Investors who want steady returns and reliable dividends should check out blue chip stocks. While there’s no hard and fast definition of blue chip stocks, these investments generally share a few characteristics. They’re large-cap companies with name recognition, decades-long histories of reliable performance, a track record of steady earnings and consistent dividend payouts.
+
+However, since these companies are well-established, expect the cost-per-share to be higher. And keep in mind that blue chip stocks aren’t likely to experience meteoric growth.
+
+Penny Stocks
+Penny stocks are very risky, speculative investments that are in many cases outright frauds. As their name suggests, penny stocks have very low valuations. Historically, penny stocks were, as their name implies, priced in pennies, coming in at less than $1 per share, though now penny stocks may run as high as $5 per share
+
+Companies behind penny stocks are very often in financial trouble, with collapsing businesses or even no real business in the first place. Penny stocks are not listed on major stock exchanges. They’re traded over the counter (OTC) and have vanishingly small trading volumes, making them highly illiquid investments.
+
+Worst of all, penny stocks are a favorite tool of scammers. Pump and dump schemes use penny stocks to dupe naive investors out of their money, as portrayed in movies like “The Wolf of Wall Street” and “Boiler Room.”
+
+ESG Stocks
+Environmental, social and governance (ESG) is an approach to investing where people only buy the stock of companies that exhibit responsible corporate behavior. ESG stocks are judged by third-party rating systems to determine which conduct their business in environmentally sustainable and socially responsible ways while also maintaining good corporate governance that encourages diversity and pay equity within the company.
+
+Investors who care about ESG investing consider every company to have stakeholders that go well beyond simply the stock market—including workers, communities, customers and the environment. ESG stocks allow you to invest in companies whose corporate values align with your personal values.
